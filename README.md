@@ -83,16 +83,6 @@
 
 ### 4.2 Реализация
 
-**Структура на проекта:**
-data_mining_project/
-├── video_game_reviews.csv
-├── project_v4.ipynb
-└── README.md
-
-markdown
-Copy
-Edit
-
 #### Модул за импорт и анализ:
 - Хистограми по атрибути  
 - Целева променлива: `User Rating`
